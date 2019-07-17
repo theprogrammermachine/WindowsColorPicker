@@ -1,0 +1,16 @@
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\bin\Debug\Color Picker (Kaspersoft).exe.config
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\bin\Debug\Color Picker (Kaspersoft).exe
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\bin\Debug\Color Picker (Kaspersoft).pdb
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft).csprojResolveAssemblyReference.cache
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\MainWindow.g.cs
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\App.g.cs
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft)_MarkupCompile.cache
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft)_MarkupCompile.lref
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\MainWindow.baml
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft).g.resources
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color_Picker__Kaspersoft_.Properties.Resources.resources
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft).csproj.GenerateResource.Cache
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft).exe
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\Color Picker (Kaspersoft).pdb
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\ColorProfile.g.cs
+E:\My Work Files\C# Projects\Color Picker (Kaspersoft)\Color Picker (Kaspersoft)\obj\Debug\ColorProfile.baml
